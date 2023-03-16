@@ -1,0 +1,13 @@
+ID nalaza: 00002
+Ime i prezime: Andrijana Vasiljevic
+Datum rodjenja: 30.1.2001.
+Pol: Z
+LBO: 14400032779
+Datum i vreme obrade: 20.08.2020.
+
+Analiza              Vrsta                Min. ref. vr.             Maks. ref. vr.            Rezultat             Merna jedinica       
+Anti LKM1            imunologija          20.0                      25.0                      23.0                 U                   
+
+
+
+Cena: 1400

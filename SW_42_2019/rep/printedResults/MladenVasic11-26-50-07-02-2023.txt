@@ -1,0 +1,13 @@
+ID nalaza: 00000
+Ime i prezime: Mladen Vasic
+Datum rodjenja: 27.5.2000.
+Pol: M
+LBO: 14400032887
+Datum i vreme obrade: 07.02.2023.
+
+Analiza              Vrsta                Min. ref. vr.             Maks. ref. vr.            Rezultat             Merna jedinica       
+Rubella IgM          virusologija         7.0                       10.0                      7.48                 UI/ml               
+
+
+
+Cena: 2320

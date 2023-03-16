@@ -1,0 +1,2 @@
+00000;uzorak uzet;0002:0.0,;virusologija;14400032887;;06.06.2021. 10:30;true;true;2320
+00001;uzorak nije uzet;0003:0.0,;virusologija;15987532600;;06.06.2021. 00:00;true;false;2120

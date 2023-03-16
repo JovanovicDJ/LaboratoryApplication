@@ -1,0 +1,13 @@
+ID nalaza: 00005
+Ime i prezime: Milan Jovanovic
+Datum rodjenja: 27.9.1971.
+Pol: M
+LBO: 15987532600
+Datum i vreme obrade: 27.08.2020.
+
+Analiza              Vrsta                Min. ref. vr.             Maks. ref. vr.            Rezultat             Merna jedinica       
+TORCH                virusologija         9.0                       13.0                      14.1                 cells/mm^3          
+
+
+
+Cena: 13420

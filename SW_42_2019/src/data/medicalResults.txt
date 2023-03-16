@@ -1,0 +1,4 @@
+00000;gotov 07.02.2023.;0002:7.48,;virusologija;14400032887;;06.06.2021. 10:30;true;true;2320
+00001;uzorak nije uzet;0003:0.0,;virusologija;15987532600;;06.06.2021. 00:00;true;false;2120
+00002;uzorak uzet;0049:0.0,0050:0.0,;hormoni,hormoni;15987532600;;13.02.2023. 00:00;false;false;5800
+00003;uzorak uzet;0046:0.0,;vitamini;15987532600;;06.02.2023. 00:00;false;false;2100

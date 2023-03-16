@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/main/gui/LoginGui.java=UTF-8
+encoding//src/main/gui/menus/LaborantMenu.java=UTF-8
+encoding//src/main/gui/menus/PatientMenu.java=UTF-8
+encoding//src/main/gui/menus/TechnicianMenu.java=UTF-8
+encoding//src/main/service/laborant/AnalyzerForMedResult.java=UTF-8
+encoding//src/main/service/owner/AddAnalysis.java=UTF-8
+encoding//src/main/service/owner/AddWorker.java=UTF-8
+encoding//src/main/service/owner/BonusChanger.java=UTF-8
+encoding//src/main/service/owner/CoefficientChanger.java=UTF-8
+encoding//src/main/service/owner/ExpensesReviewer.java=UTF-8
+encoding//src/main/service/owner/MonthlyReport.java=UTF-8
+encoding//src/main/service/owner/VisitPriceChanger.java=UTF-8
+encoding//src/main/service/patient/ResultsReviewer.java=UTF-8
+encoding//src/main/service/technician/AddPatient.java=UTF-8
+encoding//src/main/service/technician/SamplesPickingReview.java=UTF-8

@@ -1,0 +1,13 @@
+bonusTechnician;500.0
+1;0.37
+2;0.5
+bonusLaborant;2000.0
+3;0.6
+4;0.7
+5;0.75
+6;0.8
+7;1.1
+8;0.9
+visitWithoutTime;620.0
+visitWithTime;820.0
+base;8000.0

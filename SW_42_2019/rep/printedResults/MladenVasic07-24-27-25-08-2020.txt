@@ -1,0 +1,14 @@
+ID nalaza: 00001
+Ime i prezime: Mladen Vasic
+Datum rodjenja: 27.5.2000.
+Pol: M
+LBO: 14400032887
+Datum i vreme obrade: 24.08.2020.
+
+Analiza              Vrsta                Min. ref. vr.             Maks. ref. vr.            Rezultat             Merna jedinica       
+Adrenalna At         imunologija          60.0                      90.0                      86.8                 g/L                 
+Leukociti            hematologija         4500.0                    11000.0                   5605.92              mcL                 
+
+
+
+Cena: 3720

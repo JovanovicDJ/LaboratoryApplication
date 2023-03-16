@@ -1,0 +1,56 @@
+0000;Influenca A IgM, IgM;virusologija;9.0;11.0;UI/ml;1300
+0001;Toxoplasma IgM;virusologija;9.0;12.0;UI/ml;1500
+0002;Rubella IgM;virusologija;7.0;10.0;UI/ml;1500
+0003;HIV;virusologija;500.0;1000.0;cells/mm^3;1500
+0004;Adeno IgA, IgG;virusologija;7.0;10.0;UI/ml;1200
+0005;TORCH;virusologija;9.0;13.0;cells/mm^3;12600
+0006;HCV;virusologija;10.0;12.0;UI/ml;9000
+0007;Paul-Bunnell;virusologija;8.0;10.0;UI/ml;1200
+0008;Helicobact.py.IgA;bakteriologija;30.0;40.0;UI/ml;1200
+0009;Chlamydia;bakteriologija;25.0;30.0;UI/ml;1200
+0010;Bonnelia bur;bakteriologija;30.0;35.0;IU/ml;1200
+0011;Brucella At;bakteriologija;1.4;1.8;nmol/L;1200
+0012;Candida;bakteriologija;28.0;35.0;UI/ml;1300
+0013;Quantiferon;bakteriologija;30.0;40.0;UI/ml;5200
+0014;Anti LKM1;imunologija;20.0;25.0;U;1400
+0015;ASMA;imunologija;14.0;26.0;?g/dL;1400
+0016;C1 inhibitor;imunologija;16.0;33.0;mg/dL;1300
+0017;Imunoelektroforeza;imunologija;115.0;165.0;g/L;4800
+0018;Adrenalna At;imunologija;60.0;90.0;g/L;3500
+0019;Neuronalna At;imunologija;50.0;70.0;g/L;5200
+0020;Anti trombocitna At;imunologija;150.0;400.0;mg/dL;2400
+0021;MUSK Antitela;imunologija;60.0;400.0;mg/dL;2500
+0022;Bris crviksa, vagine, uretre;mikrobiologija;3.8;4.5;PH;400
+0023;Gonokok;mikrobiologija;16.0;32.0;mg/L;400
+0024;Mikoplazma + Ureaplazma;mikrobiologija;2.0;10.0;mL;1900
+0025;Bris grla, nosa;mikrobiologija;6000.0;10000.0;cfu/mL;300
+0026;Kultura na anaerobe;mikrobiologija;9000.0;11000.0;cfu/mL;800
+0027;Antimikogram;mikrobiologija;10.0;12.0;ng/ml;2000
+0028;Kontrola sterilnosti;mikrobiologija;8.0;15.0;U/mL;600
+0029;Transglutaminska At;gastroenterologija;3.0;10.0;U/ml;1200
+0030;APA;gastroenterologija;96.0;109.0;mg/dL;1200
+0031;AMA;gastroenterologija;0.4;0.9;U;1200
+0032;Sedimentacija;hematologija;0.0;25.0;mm/hr;110
+0033;KKS (5 DIF);hematologija;4350000.0;5650000.0;mcL;450
+0034;Leukociti;hematologija;4500.0;11000.0;mcL;220
+0035;Trombociti;hematologija;150000.0;450000.0;mcL;220
+0036;Retikulociti;hematologija;0.5;1.5;%;330
+0037;Ukupni IgE;alergologija;0.3;0.6;KUA/L;800
+0038;Nutritivni panel IgE;alergologija;0.2;0.5;KUA/L;5000
+0039;Inhalatorni panel IgE;alergologija;0.0;0.1;KUA/L;5000
+0040;Kombinovani panel IgE;alergologija;3.0;5.0;mg/L;10000
+0041;Vitamin A;vitamini;8.0;25.0;?g/dL;2650
+0042;Vitamin B2;vitamini;4.0;24.0;?g/dL;2400
+0043;Vitamin B6;vitamini;6.0;20.0;?g/dL;3650
+0044;Vitamin B12;vitamini;4.0;24.0;?g/dL;1000
+0045;Vitamin E;vitamini;7.0;21.0;?g/dL;2650
+0046;Vitamin C;vitamini;8.0;23.0;?g/dL;2100
+0047;Adrenalin;hormoni;13.0;56.0;ng/L;1600
+0048;Noradrenalin;hormoni;146.0;801.0;ng/L;1600
+0049;Dopamin;hormoni;16.0;89.0;ng/L;1600
+0050;Serotonin;hormoni;50.0;200.0;ng/mL;4200
+0051;Gastrin;hormoni;100.0;180.0;pg/mL;1800
+0052;Leptin;hormoni;20.0;50.0;ng/mL;1500
+0053;Melatonin;hormoni;10.0;50.0;pg/ml;9000
+0054;Vitamin K;vitamini;8.0;24.0;?g/dL;1800
+0055;Vitamin Zn;vitamini;1.2;3.0;g/ml;2200
